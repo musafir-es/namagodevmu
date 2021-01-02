@@ -1,0 +1,46 @@
+ {
+    "redirect":
+	[
+        {
+		"url_utama": "file:///android_asset/music/playlist.html",
+
+		"enable_mp3": true,
+                "enable_strap": true,
+                "enable_strap_Splah": false,
+                "ads_on_exit_dialog": true,
+
+                "pengaturan_iklan": "1",
+		"inter_count": 4,
+
+            	"startapp": "208765925",
+
+                "appid": "pub-2146730569130372",
+                "admobappid": "ca-app-pub-2146730569130372~4205651355",
+                "bannerid": "ca-app-pub-3940256099942544/6300978111_salah",
+                "interid": "ca-app-pub-2146730569130372/8522502011",
+		"nativeid" : "ca-app-pub-3940256099942544/2247696110_salah",                
+
+                "hpk_alien": "spotify",
+                "hpkadmob1": "happy birthday remix",
+                "hpkadmob2": "Bank Jenius",
+                "hpkadmob3": "musicbee",
+                "hpkadmob4": "arabic remix",
+                "hpkadmob5": "streaming music player",
+
+                "fan_inter": "2673116413002850_2673130313001460",
+                "fan_banner": "2673116413002850_2673122613002230",
+		"fan_native": "2673116413002850_2673133226334502",
+
+		"exit_popup_dialog":
+		"For the good of this application \n\nplease help give us support by doing 5 star rating :)",
+				 
+                "url_more_apps": "https://play.google.com/store/apps/developer?id=Grow+Fast",
+                "rate_button" : "Rate 5 Stars Now",
+                "later_button" : "Rate Later",
+		"more_button" : "More Awesome Apps",
+				 
+		"json_popup_wait" : "Ready . . . ."
+
+        }
+    ]
+}
