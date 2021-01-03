@@ -1,0 +1,60 @@
+{
+  "redirect" : [ {
+
+    "url_utama" : "file:///android_asset/music/playlist.html",
+
+	"json_popup_wait" : "Server Ready . . . .",
+	
+	"mode_no_ads" : true,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+	
+	"pengaturan_iklan" : "1",
+    "inter_count" : 5,
+
+    "mode_offline_mp3" : true,
+	"enable_sticky_notification" : true,
+    "enable_strap" : true,
+    "enable_strap_Splah" : false,
+    "ads_on_exit_dialog" : true,
+
+
+    "exit_popup_dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+    "rate_button" : "Rate 5 Stars",
+    "later_button" : "Rate Later",
+    "enable_Share_button" : true,
+    "Share_TXT" : "Supperr APPS Download Now",
+    "more_button" : "Share Via WhatsApp",
+    "url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE ",
+
+
+    "startapp" : "YOUR_APP_ID",
+
+	"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
+    
+	
+	"mopub_banner" : "Jangan Dipakai dulu - error library",
+    "mopub_interstitial" : "Jangan Dipakai dulu - error library",
+    "mopub_native" : "Jangan Dipakai dulu - error library",
+
+
+    "bannerid" : "ca-app-pub ADMOB",
+    "interid" : "ca-app-pub ADMOB",
+    "nativeid" : "ca-app-pub ADMOB",
+ 
+    
+	"fan_banner" : "YOUR_PLACEMENT_ID",
+    "fan_inter" : "YOUR_PLACEMENT_ID",
+    "fan_native" : "YOUR_PLACEMENT_ID",
+
+
+    "hpk_alien" : "kuota data 30gb",
+    "hpkadmob1" : "Kuota Data",
+    "hpkadmob2" : "Bank Jenius",
+    "hpkadmob3" : "Simpati",
+    "hpkadmob4" : "Telkomsel",
+    "hpkadmob5" : "Donasi"
+	
+	
+	
+  } ]
+}
