@@ -3,7 +3,7 @@
 
     "url_utama" : "file:///android_asset/music/playlist.html",
 
-	"json_popup_wait" : "Server Ready . . . .",
+	"json_popup_wait" : "Loading . . . .",
 	
 	"mode_no_ads" : true,
 	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
@@ -12,7 +12,7 @@
     "inter_count" : 5,
 
     "mode_offline_mp3" : true,
-	"enable_sticky_notification" : false,
+	"enable_sticky_notification" : true,
     "enable_strap" : true,
     "enable_strap_Splah" : false,
     "ads_on_exit_dialog" : true,
